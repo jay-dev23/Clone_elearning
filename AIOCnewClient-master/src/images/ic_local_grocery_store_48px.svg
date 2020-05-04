@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="58" viewBox="0 0 58 58">
+  <defs>
+    <filter id="Path_216" x="0" y="0" width="58" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ic_local_grocery_store_48px" transform="translate(7 2)">
+    <g transform="matrix(1, 0, 0, 1, -7, -2)" filter="url(#Path_216)">
+      <path id="Path_216-2" data-name="Path 216" d="M14,36a4,4,0,1,0,4,4A3.982,3.982,0,0,0,14,36ZM2,4V8H6l7.19,15.17-2.7,4.9A4.066,4.066,0,0,0,10,30a4,4,0,0,0,4,4H38V30H14.85a.5.5,0,0,1-.5-.5.475.475,0,0,1,.06-.24L16.2,26H31.1a4.013,4.013,0,0,0,3.5-2.06l7.15-12.98A1.933,1.933,0,0,0,42,10a2,2,0,0,0-2-2H10.43L8.53,4H2ZM34,36a4,4,0,1,0,4,4A3.982,3.982,0,0,0,34,36Z" transform="translate(7 2)" fill="#707070"/>
+    </g>
+  </g>
+</svg>

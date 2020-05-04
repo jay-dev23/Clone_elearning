@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="51.232" viewBox="0 0 54 51.232">
+  <defs>
+    <filter id="Path_215" x="0" y="0" width="54" height="51.232" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ios-wallet" transform="translate(-39 -57.989)">
+    <g transform="matrix(1, 0, 0, 1, 39, 57.99)" filter="url(#Path_215)">
+      <path id="Path_215-2" data-name="Path 215" d="M78.808,72.3H53.192A5.2,5.2,0,0,0,48,77.49V92.028a5.2,5.2,0,0,0,5.192,5.192H78.808A5.2,5.2,0,0,0,84,92.028V77.49A5.2,5.2,0,0,0,78.808,72.3ZM73.52,64.076,53.192,68.048c-1.558.346-3.808,1.912-3.808,3.816a5.453,5.453,0,0,1,4.24-1.644H78.462V68.446a4.969,4.969,0,0,0-1.2-3.254A4.093,4.093,0,0,0,73.52,64.076Z" transform="translate(-39 -57.99)" fill="#707070"/>
+    </g>
+  </g>
+</svg>
