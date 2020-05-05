@@ -60,7 +60,7 @@ gqlServer.applyMiddleware({
     path: '/api',
     cors: {
         credentials: true,
-        origin: 'http://localhost:3000'
+        origin: ['http://18.220.4.122:8080','http://18.220.4.122:9000']
     }
 });
 
