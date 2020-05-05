@@ -14,7 +14,7 @@ import { setContext } from 'apollo-link-context';
 //
 import Layout from './components/layout';
 
-const uri = process.env.API_URI || 'http://localhost:4000/api';
+const uri = process.env.API_URI || 'http://18.220.4.122:4000/api';
 const httpLink = createHttpLink({ uri });
 const cache = new InMemoryCache({
   resultCaching: true,
